@@ -1,5 +1,5 @@
 # Weather Information Application 🌦️
-![Project Screenshot](path/to/your/screenshot.jpg)
+![Project Screenshot](/Screenshot 2024-11-16 100302.png)
 
 ## 🛠️ Technologies Used
 
