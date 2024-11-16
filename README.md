@@ -1,11 +1,11 @@
 # Weather Information Application 🌦️
-<img src="Screenshot 2024-11-16 100302.png" >
+<img src="Screenshot 2024-11-16 100302.png"  width="500">
 
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
-- **Design Tools**: Bootstrap, Font Awesome for icons
+- **Design Tools**: Tailwind, Font Awesome for icons
 - **Version Control**: Git, GitHub
 
 ## 🚀 Features
